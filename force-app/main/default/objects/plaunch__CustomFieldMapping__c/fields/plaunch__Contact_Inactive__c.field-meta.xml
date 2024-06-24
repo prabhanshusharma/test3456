@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>plaunch__Contact_Inactive__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Checkbox custom field to indicate if the contact is inactive e.g left company</description>
+    <externalId>false</externalId>
+    <label>Contact Inactive</label>
+    <length>60</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

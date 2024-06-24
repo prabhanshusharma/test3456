@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Company Logo/Avatar Image URL --></help>
+    <label><!-- Avatar URL --></label>
+    <name>plaunch__avatar_url__c</name>
+</CustomFieldTranslation>

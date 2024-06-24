@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>plaunch__Planning__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Planning List</description>
+    <externalId>false</externalId>
+    <label>Planning</label>
+    <referenceTo>plaunch__Planning__c</referenceTo>
+    <relationshipLabel>Planning Contacts</relationshipLabel>
+    <relationshipName>Planning_Contacts</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

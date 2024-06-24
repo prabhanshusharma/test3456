@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If unchecked all existing salesforce contacts in CRM will be hidden - Only new contacts will be displayed --></help>
+    <label><!-- Show Existing Contacts on ICP --></label>
+    <name>plaunch__Show_Existing_Contacts_ICP__c</name>
+</CustomFieldTranslation>

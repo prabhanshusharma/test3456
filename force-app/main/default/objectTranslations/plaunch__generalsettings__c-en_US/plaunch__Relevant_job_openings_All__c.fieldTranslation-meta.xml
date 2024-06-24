@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Relevant job openings (include ALL of these keywords) --></help>
+    <label><!-- Relevant job openings All --></label>
+    <name>plaunch__Relevant_job_openings_All__c</name>
+</CustomFieldTranslation>

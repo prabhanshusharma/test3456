@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>plaunch__LookupRequired</fullName>
+    <active>true</active>
+    <description>A lookup is required</description>
+    <errorConditionFormula>AND(ISBLANK(plaunch__Lead__c), ISBLANK(plaunch__Contact__c), ISBLANK(plaunch__Account__c))</errorConditionFormula>
+    <errorMessage>A lookup is required</errorMessage>
+</ValidationRule>

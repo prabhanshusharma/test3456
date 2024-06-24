@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Possible values are empty value for no debugging, debug, or error --></help>
+    <label><!-- Log Level --></label>
+    <name>plaunch__Log_Level__c</name>
+</CustomFieldTranslation>

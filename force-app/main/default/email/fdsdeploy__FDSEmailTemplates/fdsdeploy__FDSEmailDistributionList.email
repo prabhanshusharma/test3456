@@ -1,0 +1,10 @@
+<messaging:emailTemplate subject="New request to {!IF(relatedTo.fdsdeploy__FDSIsDelink__c==true,'un-link','link')} a Salesforce account with a FactSet entity" recipientType="User" relatedToType="fdsdeploy__FDSAccountEntityIdApproval__c">
+<messaging:htmlEmailBody >
+Hi,<br/><br/>
+
+{!recipient.Name} recently made a request to {!IF(relatedTo.FDSIsDelink__c==true,'un-link','link')} <b>{!relatedTo.FDSAccount__r.Name}</b> in Salesforce with the FactSet entity, <b>{!relatedTo.FDSCompanyName__c}{!IF(RIGHT(relatedTo.FDSCompanyName__c, 1)=='.', ' ', '.')}</b>
+You can either Approve or Reject this request by going to the&nbsp;<apex:outputlink value="{!LEFT($Api.Partner_Server_URL_140,FIND('.com',$Api.Partner_Server_URL_140)+4)+$Label.fdsdeploy__FDS00000017}">FactSet Admin tab</apex:outputlink> in your Salesforce org.
+<br/><br/>
+Thank you
+</messaging:htmlEmailBody>
+</messaging:emailTemplate>

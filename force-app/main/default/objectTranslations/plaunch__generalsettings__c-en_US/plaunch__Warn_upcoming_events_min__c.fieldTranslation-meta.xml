@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Warn about upcoming events (value in minutes) --></help>
+    <label><!-- Warn upcoming events (min) --></label>
+    <name>plaunch__Warn_upcoming_events_min__c</name>
+</CustomFieldTranslation>

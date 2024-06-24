@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>plaunch__nextMeeting__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Keeps datetime for next meeting for the contact/lead in PipeLaunch</description>
+    <externalId>false</externalId>
+    <label>Next meeting</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>DateTime</type>
+</CustomField>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>
+        <!-- Enable advanced parameters. Flags in comma-separated format.
+        Available flags:
+        LINKEDINMATCH-STRICT-&gt; speedup the match of existing records by searching only by the
+        canonical LinkedIn™ URL -->
+    </help>
+    <label><!-- Advanced Flags --></label>
+    <name>plaunch__AdvancedFlags__c</name>
+</CustomFieldTranslation>

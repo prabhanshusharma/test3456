@@ -1,0 +1,9 @@
+<messaging:emailTemplate subject="Link removal request {!relatedTo.fdsdeploy__FDSStatus__c} by Salesforce Admin" recipientType="User" relatedToType="fdsdeploy__FDSAccountEntityIdApproval__c">
+<messaging:htmlEmailBody >
+Hi {!relatedTo.Owner.FirstName},
+<br/><br/>
+Your Salesforce Administrator has {!relatedTo.FDSStatus__c} the request to un-link <b>"{!relatedTo.FDSAccount__r.Name}"</b> from <b>"{!relatedTo.FDSCompanyName__c}"</b>. If you have any questions please contact your Salesforce Administrator or your FactSet Consultant.
+<br/><br/>
+Thank you
+</messaging:htmlEmailBody>
+</messaging:emailTemplate>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Suffix_Validation</fullName>
+    <active>false</active>
+    <errorConditionFormula>NOT(BEGINS(Suffix, &quot;, &quot;))</errorConditionFormula>
+    <errorMessage>The suffix field must always start with a comma and a space (i.e. &quot;, Sr.&quot; or &quot;, Jr.&quot;)</errorMessage>
+</ValidationRule>

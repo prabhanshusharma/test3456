@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field indicates the specific date of the signal (e.g. when an individual started their new job). Please note that this field does not apply to other signal types, such as name mismatches, where there is no specific date associated with the change. --></help>
+    <label><!-- Date --></label>
+    <name>plaunch__Date__c</name>
+</CustomFieldTranslation>

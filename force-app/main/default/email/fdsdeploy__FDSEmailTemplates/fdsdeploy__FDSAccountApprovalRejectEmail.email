@@ -1,0 +1,9 @@
+<messaging:emailTemplate subject="FactSet company match {!relatedTo.fdsdeploy__FDSStatus__c} by Salesforce Admin" recipientType="User" relatedToType="fdsdeploy__FDSAccountEntityIdApproval__c">
+<messaging:htmlEmailBody >
+Hi {!relatedTo.Owner.FirstName},
+<br/><br/>
+Your Salesforce Administrator has <b>{!relatedTo.FDSStatus__c}</b> the request to link the Account: <b>"{!relatedTo.FDSAccount__r.Name}"</b> with <b>"{!relatedTo.FDSCompanyName__c}"</b> from FactSet. If there are any issues, please contact your Salesforce Administrator or your FactSet Consultant. 
+<br/><br/>
+Thank you
+</messaging:htmlEmailBody>
+</messaging:emailTemplate>

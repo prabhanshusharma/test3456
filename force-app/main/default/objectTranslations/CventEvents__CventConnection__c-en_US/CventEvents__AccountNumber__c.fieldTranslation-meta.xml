@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Stores the environment-level-unique Cvent account identifier. --></help>
+    <label><!-- Account Number --></label>
+    <name>CventEvents__AccountNumber__c</name>
+</CustomFieldTranslation>

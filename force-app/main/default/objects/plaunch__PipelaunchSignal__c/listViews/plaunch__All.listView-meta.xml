@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>plaunch__All</fullName>
+    <columns>NAME</columns>
+    <columns>CREATED_DATE</columns>
+    <columns>plaunch__Status__c</columns>
+    <columns>plaunch__Type__c</columns>
+    <columns>plaunch__SalesforceValue__c</columns>
+    <columns>plaunch__PipelaunchValue__c</columns>
+    <columns>plaunch__Account__c</columns>
+    <columns>plaunch__Contact__c</columns>
+    <columns>plaunch__Lead__c</columns>
+    <filterScope>Mine</filterScope>
+    <label>All</label>
+</ListView>

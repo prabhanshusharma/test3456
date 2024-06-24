@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>plaunch__Analytics__c</fullName>
+    <defaultValue>true</defaultValue>
+    <deprecated>false</deprecated>
+    <description>Enable analytics service to improve your user experience</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enable analytics service to improve your user experience. By activating this
+        option you agree with the following privacy policy: https://pipelaunch.com/privacy-policy</inlineHelpText>
+    <label>Enable Analytics</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

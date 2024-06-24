@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Stage__c</fullName>
+    <externalId>false</externalId>
+    <label>Stage</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Pre-Market</fullName>
+                <default>false</default>
+                <label>Pre-Market</label>
+            </value>
+            <value>
+                <fullName>In-Market</fullName>
+                <default>false</default>
+                <label>In-Market</label>
+            </value>
+            <value>
+                <fullName>Initial Closing</fullName>
+                <default>false</default>
+                <label>Initial Closing</label>
+            </value>
+            <value>
+                <fullName>Final Closing</fullName>
+                <default>false</default>
+                <label>Final Closing</label>
+            </value>
+            <value>
+                <fullName>Active Fund</fullName>
+                <default>false</default>
+                <label>Active Fund</label>
+            </value>
+            <value>
+                <fullName>Historical Fund</fullName>
+                <default>false</default>
+                <label>Historical Fund</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

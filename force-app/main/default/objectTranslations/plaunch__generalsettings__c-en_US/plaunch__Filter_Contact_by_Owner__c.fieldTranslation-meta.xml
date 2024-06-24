@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- PipeLaunch Planning automatically filter out contacts where the current user is not the Contacts owner. N.B. the user will still be able to manually add contacts where is not the account owner. --></help>
+    <label><!-- Filter Contact by Owner --></label>
+    <name>plaunch__Filter_Contact_by_Owner__c</name>
+</CustomFieldTranslation>

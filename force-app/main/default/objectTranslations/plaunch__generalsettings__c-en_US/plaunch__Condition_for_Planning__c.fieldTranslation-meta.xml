@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- You can add additional SOQL condition to filter the contacts to be generated in the planning view --></help>
+    <label><!-- Condition for Planning --></label>
+    <name>plaunch__Condition_for_Planning__c</name>
+</CustomFieldTranslation>

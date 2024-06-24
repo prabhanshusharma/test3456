@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Settings stored from planning view --></help>
+    <label><!-- Settings --></label>
+    <name>plaunch__Settings__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>plaunch__AdvancedFlags__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Enable advanced parameters. Flags in comma-separated format</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enable advanced parameters. Flags in comma-separated format.
+        Available flags:
+        LINKEDINMATCH-STRICT-&gt; speedup the match of existing records by searching only by the
+        canonical LinkedIn™ URL</inlineHelpText>
+    <label>Advanced Flags</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

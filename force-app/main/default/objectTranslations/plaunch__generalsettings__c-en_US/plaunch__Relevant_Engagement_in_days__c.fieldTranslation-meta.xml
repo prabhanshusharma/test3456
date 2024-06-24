@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Timeframe Number of days taken into consideration by: Activity History, Pr --></help>
+    <label><!-- Relevant Engagement (days) --></label>
+    <name>plaunch__Relevant_Engagement_in_days__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>plaunch__LinkedInNumericalId__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Unique identification number assigned to each LinkedIn™ company page. It cannot be
+        changed and is used as an “address” for the company page. This ID is useful because it never
+        changes, even if the vanity URL changes. PipeLaunch uses this ID to improve the matching
+        algorithm.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Unique identification number assigned to each LinkedIn™ company page. Used to
+        improve PipeLaunch matching algorithm. Example: www.linkedin.com/company/12345678</inlineHelpText>
+    <label>LinkedIn™ Numerical Id</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

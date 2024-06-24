@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Customize PipeLaunch Planning Filters:
+Define the fields visible</description>
+    <label>PipeLaunch Planning Filter</label>
+    <pluralLabel>PipeLaunch Planning Filter</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Factset Account Code --></help>
+    <label><!-- FDS Entity Id --></label>
+    <name>fdsdeploy__FDSEntityId__c</name>
+</CustomFieldTranslation>

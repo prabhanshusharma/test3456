@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Region code for filtering suggested contacts. Global region is 0 --></help>
+    <label><!-- Suggested Contacts Region --></label>
+    <name>plaunch__Suggested_Contacts_Region__c</name>
+</CustomFieldTranslation>

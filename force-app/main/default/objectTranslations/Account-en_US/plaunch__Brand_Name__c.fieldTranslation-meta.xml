@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>
+        <!-- The name this company is best know for and that is used by the company on social
+        platforms (eg. LinkedIn™) -->
+    </help>
+    <label><!-- LinkedIn™ Company Name --></label>
+    <name>plaunch__Brand_Name__c</name>
+</CustomFieldTranslation>

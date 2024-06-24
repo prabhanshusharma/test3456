@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Type --></label>
+    <name>plaunch__Type__c</name>
+    <picklistValues>
+        <masterLabel>Company Change</masterLabel>
+        <translation><!-- Company Change --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Find Company LinkedIn</masterLabel>
+        <translation><!-- Find Company LinkedIn --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Find Person LinkedIn</masterLabel>
+        <translation><!-- Find Person LinkedIn --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Job Title Change</masterLabel>
+        <translation><!-- Job Title Change --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Name Mismatch</masterLabel>
+        <translation><!-- Name Mismatch --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

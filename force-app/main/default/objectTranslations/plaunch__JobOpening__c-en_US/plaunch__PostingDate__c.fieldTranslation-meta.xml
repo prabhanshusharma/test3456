@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The date the job was posted, or if it&apos;s no longer available, the date it was posted online --></help>
+    <label><!-- Posting Date --></label>
+    <name>plaunch__PostingDate__c</name>
+</CustomFieldTranslation>

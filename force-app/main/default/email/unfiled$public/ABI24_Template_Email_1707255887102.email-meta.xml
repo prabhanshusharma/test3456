@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>ABI24 Template Email</name>
+    <pageDevName>ABI24_Template_Email</pageDevName>
+    <style>none</style>
+    <textOnly>Pablo Legorreta (Royalty Pharma) and Deborah Prentice (University of Cambridge) invite you to the Accelerating Bio-Innovation 2024 conference (April 15-17, 2024)
+
+Translating research into medicines, and bringing leaders together to generate new ideas and partnerships
+
+Dear Anjalee,Royalty Pharma, in collaboration with the University of Cambridge and the Cambridge Academy of Therapeutic Sciences, extends a cordial invitation for you to join us at the 2024 Accelerating Bio-Innovation conference. Immerse yourself in crucial debates and discussions confronting pioneers in the world of new biopharmaceuticals, bridging the realms of science, investments, and innovative therapeutics.Date: April 15-17, 2024
+
+Location: Cambridge, UK
+
+Venue: University of Cambridge sitesBuilding on the success of previous ABI conferences, held at Cambridge and MIT, ABI 2024 is set to host over 250 leaders in life sciences from industry, academia, and finance. This distinctive interdisciplinary summit will bring to light the triumphs and hurdles in drug discovery and development. Topics range from the challenges of finding new innovative drugs, to the synergies of collaborations between academia, industry, and risk capital. Explore the remarkable line-up of 2024 confirmed speakers to date on the ABI website &lt; https://www.cvent.com/api/email/dispatch/v1/click/r488q6zrdb3p46/qx47948p/aHR0cCUzQSUyRiUyRnd3dy5hYmljb25mZXJlbmNlLmNvbSUyRiYyeDBoT1N4M3JqSUxkTjkyT0NMYWFTdW53NUZhNE9NbUptdXNnTXVpR2JjJTNEJkFCSSt3ZWJzaXRl &gt; featuring three Nobel Laureates, a Pulitzer Prize recipient, three Breakthrough Prize winners, four pharma heads of R&amp;D, eight biotech CEOs, and two pharma heads of business development. This conference continues to serve as a bridge between Cambridge US and Cambridge UK with speakers like MIT’s computational biology expert Manolis Kellis and University of Cambridge’s epigenetics expert Professor Sir Shankar Balasubramanian. And this only scratches the surface.This year, we are enhancing the line up by adding several sought-after public-market investors - Phill Gross (Adage), Rajiv Kaul (Fidelity), Andy Acker (Janus Henderson), Oleg Nodelman (EcoRI) - to join our high-quality group of private investors: Nina Kjellson (Canaan), Jason Rhodes (Atlas), Francesco de Rubertis (Medicxi), Otello Stampacchia (Omega Funds) and Carol Gallagher (NEA), among others.Who will be in attendance? Leaders from the bio-innovation sphere, ranging from academic researchers and biotech/pharma executives to business development heads, venture investors, daring entrepreneurs, and visionary non-profit leaders.This exclusive invitation-only gathering kicks off with a stimulating debate at the historic Cambridge Union, followed by an evening of networking, drinks, and dinner on Monday, April 15th. The conference gala dinner will be held at the awe-inspiring Georgian Gothic dining hall at Kings College Cambridge on Tuesday, April 16th, culminating in the conference&apos;s conclusion on Wednesday, April 17th. Onsite accommodation is available for delegates traveling from outside Cambridge and all costs associated with accommodation and conference meals will be met by Royalty Pharma. Secure your spot at this unparalleled conference by registering here &lt; https://www.cvent.com/api/email/dispatch/v1/click/r488q6zrdb3p46/qx47948p/aHR0cHMlM0ElMkYlMkZjdmVudC5tZSUyRkVvWWxBOSY2cE00a3NoMnZLUWRPSG1lNTNjQ2M4QkRpTE5vMm9kdEVWQnUlMkY4VU1aUkUlM0QmaGVyZQ &gt; . Please feel free to reach out to us at r-abi@royaltypharma.com &lt; mailto:r-abi@royaltypharma.com &gt; with any questions. 
+
+Best,
+
+[Image alt text: User-added image]
+
+Pablo Legorreta
+
+Founder and CEO,
+
+Royalty Pharma
+
+[Image alt text: User-added image]
+
+Deborah Prentice
+
+Vice-Chancellor
+
+University of Cambridge
+
+[Image alt text: User-added image]
+
+ACCELERATING BIO-INNOVATION 
+
+APRIL 15-17, 2024
+
+[Image alt text: User-added image]
+
+If you no longer want to receive emails from Royalty Pharma University of Cambridge, please Opt-Out &lt; https://web.cvent.com/event/3121f56f-176e-4203-82f3-af08e6e09fe0/optInOut?emailId=y-4MpniLh0CO8LR580netw&amp;i=mPDHIXvQwkW2lAwna2OabQ&amp;locale=en-US &gt; .</textOnly>
+    <type>custom</type>
+    <uiType>SFX</uiType>
+</EmailTemplate>

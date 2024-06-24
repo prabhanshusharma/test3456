@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>
+        <!-- Unique identification number assigned to each LinkedIn™ company page. Used to
+        improve PipeLaunch matching algorithm. Example: www.linkedin.com/company/12345678 -->
+    </help>
+    <label><!-- LinkedIn™ Numerical Id --></label>
+    <name>plaunch__LinkedInNumericalId__c</name>
+</CustomFieldTranslation>

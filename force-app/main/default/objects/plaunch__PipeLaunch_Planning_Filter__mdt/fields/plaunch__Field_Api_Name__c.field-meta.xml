@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>plaunch__Field_Api_Name__c</fullName>
+    <deprecated>false</deprecated>
+    <description>API name of the field (eg AnnualRevenue or. MyCountryCode__c)</description>
+    <externalId>false</externalId>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>Supported field types: Picklist; Currency; Number</inlineHelpText>
+    <label>Field Api Name</label>
+    <length>255</length>
+    <required>true</required>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

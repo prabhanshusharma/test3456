@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Please enter the field name where you currently store the scoring for a contact (e.g. &apos;contact_score__c&apos;). NOTE: The field must be a numeric field type. --></help>
+    <label><!-- Contact Scoring Field Name --></label>
+    <name>plaunch__Contact_Scoring_Field_Name__c</name>
+</CustomFieldTranslation>

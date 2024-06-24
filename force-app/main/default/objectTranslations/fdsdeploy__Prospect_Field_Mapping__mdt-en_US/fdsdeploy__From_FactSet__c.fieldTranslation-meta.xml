@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- From_FactSet --></label>
+    <name>fdsdeploy__From_FactSet__c</name>
+</CustomFieldTranslation>

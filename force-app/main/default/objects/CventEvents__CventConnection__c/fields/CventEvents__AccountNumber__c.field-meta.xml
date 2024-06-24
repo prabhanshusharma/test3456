@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CventEvents__AccountNumber__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Stores the environment-level-unique Cvent account identifier.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Stores the environment-level-unique Cvent account identifier.</inlineHelpText>
+    <label>Account Number</label>
+    <length>10</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

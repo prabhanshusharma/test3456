@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>plaunch__ScriptAndPitch_Script__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <label>ScriptAndPitch Script</label>
+    <referenceTo>plaunch__ScriptAndPitch_Script__c</referenceTo>
+    <relationshipLabel>Script Labels</relationshipLabel>
+    <relationshipName>ScriptAndPitchScriptLabels</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

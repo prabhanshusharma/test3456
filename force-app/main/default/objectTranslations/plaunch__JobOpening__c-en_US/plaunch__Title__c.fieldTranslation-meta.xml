@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Job Opening Title, E.g. Full-stack developer (m/f) --></help>
+    <label><!-- Title --></label>
+    <name>plaunch__Title__c</name>
+</CustomFieldTranslation>

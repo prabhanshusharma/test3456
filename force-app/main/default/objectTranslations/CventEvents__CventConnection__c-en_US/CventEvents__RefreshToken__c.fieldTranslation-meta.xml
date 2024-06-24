@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Stores the refresh token obtained during OAuth 2.0 flow. --></help>
+    <label><!-- Refresh Token --></label>
+    <name>CventEvents__RefreshToken__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- JSON Data. Do not edit! --></help>
+    <label><!-- Data --></label>
+    <name>plaunch__Data__c</name>
+</CustomFieldTranslation>

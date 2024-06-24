@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Set this value at Organization Level Value only. Make sure you keep this credential private --></help>
+    <label><!-- Company Information Integration API Key --></label>
+    <name>plaunch__Company_Information_Integration_Key__c</name>
+</CustomFieldTranslation>
